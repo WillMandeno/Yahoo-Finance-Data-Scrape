@@ -1,7 +1,7 @@
 # Global configuration for Yahoo Finance data fetching
 
 # Stock tickers to fetch data for
-TICKERS = ["WOW.AX", "^AXJO"]
+TICKERS = ["MTS.AX"]
 
 # ── Price Data Configuration ───────────────────────────────────────────────────
 # Choose ONE of the following date options:
